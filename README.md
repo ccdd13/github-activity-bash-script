@@ -24,7 +24,7 @@ To execute just run the following commaind inside a demo repository:
 
 ```bash
 ACTIVITY_BR=main && MAX_PAST_DAYS=365 && COMMIT_NB= && COMMIT_MAX=7 && \
-curl -sL 'https://raw.githubusercontent.com/bobbyiliev/github-activity-bash-script/main/activity.sh' \
+curl -sL 'https://raw.githubusercontent.com/ccdd12/github-activity-bash-script/main/activity.sh' \
     | bash ;
 ```
 
