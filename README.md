@@ -1,5 +1,7 @@
 # GitHub Activity Demo Script
 
+[![support-me-w-bitcoins](https://img.shields.io/badge/bitcoins-payment%20request%20to%20https://github.com/ccdd12-brightgreen)](https://blockchain.com/btc/payment_request?address=1Nm2q6VjDcabFVhS6HyYdUzUWbUkg1)
+
 This script aims to prove why you should not be too quick at judging people by their GitHub activity stats.
 
 The script will turn your contributions graph from this:
